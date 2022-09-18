@@ -1,5 +1,4 @@
 from djitellopy import Tello
-import threading
 tello=Tello()
 tello.connect()
 
